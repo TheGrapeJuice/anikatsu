@@ -22,7 +22,7 @@ $disqus = "https://grapejuice.disqus.com"; // Disqus
 
 
 // API URL
-$api = "https://wordywelcomepostscript.shashankktiwari.repl.co"; // https://github.com/shashankktiwariii/anikatsu-api
+$api = "https://apimirurothing.vercel.app/"; // https://github.com/shashankktiwariii/anikatsu-api
 
 
 $banner = $websiteUrl . "/files/images/banner.png";  //Banner
