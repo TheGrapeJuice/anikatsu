@@ -1,6 +1,6 @@
 <?php 
 
-$websiteTitle = "AniKatsu"; // Website Name
+$websiteTitle = "GrapeJuice"; // Website Name
 $websiteUrl = "//{$_SERVER['SERVER_NAME']}";  // Website URL
 $websiteLogo = $websiteUrl . "/files/images/logo.png?v=2"; // Logo
 $contactEmail = "xyz@gmail.com"; // Contact Email
@@ -18,7 +18,7 @@ $twitter = "#"; // Twitter
  
 
 
-$disqus = "https://indianime.disqus.com"; // Disqus
+$disqus = "https://grapejuice.disqus.com"; // Disqus
 
 
 // API URL
